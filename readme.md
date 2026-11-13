@@ -105,7 +105,7 @@
 |------|------|
 | **名称** | 三毛机场 |
 | **官网** | https://a.smjcgw.com |
-| **注册链接** | [https://a.smjcgw.com/#/register?code=HS6FwaiQ](https://gw-2.smjc2.com/#/register?code=4gTS1oDS) |
+| **注册链接** | https://gw-2.smjc2.com/#/register?code=4gTS1oDS |
 | **面板类型** | V2board |
 | **防护** | Cloudflare Turnstile 验证 |
 | **官方描述** | 高速梯子最低月付不到3毛钱。年费最低只需3元 |
