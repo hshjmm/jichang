@@ -25,7 +25,7 @@
 |------|---------|-----------|---------|-----------|-----------|
 | **官网链接** | [注册链接](https://xn--cp3a08l.com/register?code=HSbnj3sH&cover=sfw) | [注册链接](https://love2.p6m6.com/#/register?code=yGqHGHvN) | [注册链接](https://gw-2.smjc2.com/#/register?code=4gTS1oDS) | [注册链接](https://xn--9kqz23b19z.com/#/register?code=MhRNHB5N) | [注册链接](https://91unicorn.cloud/#/register?code=IyUXWlDk) |
 | **面板类型** | V2board | V2board | V2board | 自研Vue面板 | V2board |
-| **邮箱验证** | 需注册 | 需注册 | 无需验证 | 需注册 | 需邮箱验证码 |
+| **注册是否需要翻墙** | 可直接访问 | 有时需要翻墙才能打开 | 可直接访问 | 可直接访问 | 需要翻墙访问 |
 | **官方描述** | — | — | 高速梯子最低月付不到3毛，年费最低3元 | 最良心的高性价比机场，四网高可靠性互联 | — |
 | **特色** | 低价路线 | 低价路线 | 极低价、是这几个机场里最便宜的 | 四网互联、TLS1.3加密 | 低价路线 |
 
