@@ -104,7 +104,7 @@
 | 项目 | 详情 |
 |------|------|
 | **名称** | 三毛机场 |
-| **官网** | https://a.smjcgw.com |
+| **官网** | https://gw-2.smjc2.com |
 | **注册链接** | https://gw-2.smjc2.com/#/register?code=4gTS1oDS |
 | **面板类型** | V2board |
 | **防护** | Cloudflare Turnstile 验证 |
