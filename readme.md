@@ -63,7 +63,7 @@
 | 1 | 三毛 | 周期订阅 + 一次性流量包 | ¥3 / 年起（5GB 每月） | 入门门槛最低 | [点击注册](https://gw-2.smjc2.com/#/register?code=4gTS1oDS) |
 | 2 | 良心云 | 周期订阅 + 一次性流量包 | ¥2 / 月（100GB 每月） | 四网互联、周期自选灵活 | [点击注册](https://xn--9kqz23b19z.com/#/register?code=MhRNHB5N) |
 | 3 | 魔戒 | 一次性流量包（不限时） | ¥1 体验包 / ¥19.9 得 130GB | 流量不过期，低频与备用首选 | [点击注册](https://74.82.196.10:8000/register?aff=8BxOO6F6) |
-| 4 | 宝可梦 | 周期订阅 + 一次性流量包 | ¥8.8 / 月（60GB 每月） | 专线、静态家宽、定制服务最多 | [点击注册](https://love2.p6m6.com/#/register?code=yGqHGHvN) |
+| 4 | 宝可梦 | 周期订阅 + 一次性流量包 | ¥8.8 / 月（60GB 每月） | 专线、静态家宽、定制服务最多 | [点击注册](https://love3.p6m6.com/#/register?code=yGqHGHvN) |
 | 5 | Sakuracat | 周期订阅 + 一次性流量包 | ¥3.8 / 月（10GB 每月） | 档位细分、3 台设备限制 | [点击注册](https://sakuracat-cn2.com/register?code=iuPnvGVB) |
 | 6 | 精靈學院 | 周期订阅 + 一次性流量包 | ¥8 / 月（30GB 每月） | ISP 家宽 + CN2 专线 + Emby | [点击注册](https://ok.riolu.work/register?aff=Au3Kc3gi) |
 | 7 | 赔钱 | 周期订阅 + 一次性流量包 | ¥1.5 / 月（100GB 每月） | 周期单价最低，含不限时包 | [点击注册](https://xn--cp3a08l.com/register?code=HSbnj3sH&cover=sfw) |
@@ -183,7 +183,7 @@
 
 常规套餐按订单日重置流量，当月没用完的流量不会累积到下个月；月付套餐续费只延长到期时间、不会重置流量，没流量时要么等重置日，要么单独购买流量重置包（重置包只重置当前周期）；流量用尽后更换套餐可获得一次立即的流量与日期重置。站内提供官方 TG 客服与群组，并设有“加群获取兑换码免费使用”的活动。首购建议先拿小套餐测试所在地区的实际速度，再考虑年付。
 
-**注册链接**：[点击注册](https://love2.p6m6.com/#/register?code=yGqHGHvN)
+**注册链接**：[点击注册](https://love3.p6m6.com/#/register?code=yGqHGHvN)
 
 ## Sakuracat
 
