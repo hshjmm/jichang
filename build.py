@@ -1,14 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""把 README.md 编译成可直接部署的静态站点（输出到 site/）。
 
-环境变量（Cloudflare Pages 里在「设置 → 环境变量」配置，本地也可临时设置）：
-    SITE_URL            站点根地址，用于生成 sitemap.xml，例如 https://pcpcpc.ccwu.cc
-    CF_ANALYTICS_TOKEN  Cloudflare Web Analytics 的 token，填了才会注入统计脚本
-
-本地构建：        python build.py
-Cloudflare 构建：  构建命令 python3 build.py，输出目录 site
-"""
 import datetime
 import html
 import os
